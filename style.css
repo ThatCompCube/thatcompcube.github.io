@@ -1,3 +1,7 @@
-.header {
+body {
+  color: gray;
+}
+
+h1 {
   color: green;
 }
